@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Status View"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_view_font" />
+
+
+    <TextView
+        android:id="@+id/udpserver_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_view_font" />
+
+
+    <TextView
+        android:id="@+id/ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_view_font" />
+
+
+    <TextView
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+       android:textSize="@dimen/text_view_font"
+        android:textColor="@color/black"/>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/view"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <com.jjoe64.graphview.GraphView
+        android:id="@+id/ecgGraph"
+        android:layout_width="match_parent"
+        android:layout_height="200dip" />
+
+    <TextView
+        android:id="@+id/txtECG"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/txtTemperature"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/txtPulseOx"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+        android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/txtTempStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/txtECGStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/txtHeartBeatStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+    <TextView
+        android:id="@+id/tems5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/black"
+       android:textSize="@dimen/text_view_font" />
+
+</LinearLayout>

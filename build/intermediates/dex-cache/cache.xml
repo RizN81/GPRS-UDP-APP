@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_c7ecd9a000e5ce2c91fa45f163567e014b5ca4dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\exploded-aar\com.jjoe64\graphview\4.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\com.jjoe64-graphview-4.2.1_6c2a7b3152092d29361c2e15de8b37e1028591e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Rizwan Khan\.gradle\caches\modules-2\files-2.1\org.jbundle.util.osgi.wrapped\org.jbundle.util.osgi.wrapped.org.apache.http.client\4.1.2\98c86e42679fe7ac066f6c242e0d14f0bce0bb7c\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_fbe6df676b5b992e2df1b8c4cf86a6e6b604bd7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_db7a563ea8e91f1377f0716f23cd327059dd69c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_1b950f178e053797fc22049eca6820b6c38f3b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="D:\Android Studio Workspace\GPRS_UDP_HEALTH_MONITOR\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_0bc87b69b647e7c794f42c9cba5eefec65b81c61.jar" />
+    </item>
+
+</items>

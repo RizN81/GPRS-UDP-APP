@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start_page.xml",
+        "source": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\start_page.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start_page.xml",
+        "source": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\start_page.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\init.xml",
+        "source": "D:\\Android Studio Workspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\init.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\build\\intermediates\\res\\merged\\debug\\menu\\init.xml",
+        "source": "H:\\AndroidStudioWorkspace\\GPRS_UDP_HEALTH_MONITOR\\app\\src\\main\\res\\menu\\init.xml"
+    }
+]
